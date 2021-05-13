@@ -12,7 +12,7 @@ namespace HotelApi.Controllers
     {
 
         List<Hotel> hotels = HotelListUtil.hotels;
-
+        
         public HotelController()
         {
 
